@@ -1,0 +1,15 @@
+html {
+  background-color: cadetblue;
+}
+
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 1px solid black;
+}
+
+img {
+  display: none;
+}

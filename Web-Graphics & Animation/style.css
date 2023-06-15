@@ -1,0 +1,14 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+
+img {
+  display: none;
+}
