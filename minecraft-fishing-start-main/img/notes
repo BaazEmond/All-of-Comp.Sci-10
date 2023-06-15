@@ -1,0 +1,24 @@
+//Steve Fish Simulator
+//let randNum = Math.random();
+//console.log(randNum);
+//if (randNum <= 0.7) {
+//resultImg.src = "img/Raw-Cod.png";
+//console.log("Cod");
+//numCod++;
+//numCodSpan.innerHTML = numCod;
+//} else if (randNum > 0.7 && randNum <= 0.9) {
+//resultImg.src = "img/Raw-Salmon.png";
+//console.log("Salmon");
+//numSalmon++;
+//numSalmonSpan.innerHTML = numSalmon;
+//} else if (randNum > 0.9 && randNum <= 0.95) {
+//resultImg.src = "img/Tropical-Fish.png";
+//console.log("Tropical Fish");
+//numTropical++;
+//numTropicalSpan.innerHTML = numTropical;
+//} else if (randNum > 0.95) {
+//resultImg.src = "img/Pufferfish.png";
+//console.log("Pufferfish");
+//numPuffer++;
+//numPufferSpan.innerHTML = numPuffer;
+//}

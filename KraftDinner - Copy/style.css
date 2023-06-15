@@ -1,0 +1,38 @@
+h1,
+h2,
+h3 {
+  color: rgb(226, 164, 20);
+  font-family: serif;
+}
+
+p {
+  color: orange;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+}
+
+li {
+  color: orange;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+body {
+  background-color: rgb(0, 86, 244);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 50px auto;
+  width: 500px;
+  padding: 20px 50px;
+  border-radius: 15px;
+}
+html {
+  background-color: orange;
+}
